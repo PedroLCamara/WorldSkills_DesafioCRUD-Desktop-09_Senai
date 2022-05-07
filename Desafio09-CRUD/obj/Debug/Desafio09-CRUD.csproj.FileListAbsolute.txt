@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\WordSkillsExercicios\Exercicio09\Desafio09-CRUD\bin\Debug\Desafio09-CRUD.exe.config
+C:\Users\Pichau\Desktop\WordSkillsExercicios\Exercicio09\Desafio09-CRUD\bin\Debug\Desafio09-CRUD.exe
+C:\Users\Pichau\Desktop\WordSkillsExercicios\Exercicio09\Desafio09-CRUD\bin\Debug\Desafio09-CRUD.pdb
+C:\Users\Pichau\Desktop\WordSkillsExercicios\Exercicio09\Desafio09-CRUD\bin\Debug\EntityFramework.dll
+C:\Users\Pichau\Desktop\WordSkillsExercicios\Exercicio09\Desafio09-CRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pichau\Desktop\WordSkillsExercicios\Exercicio09\Desafio09-CRUD\bin\Debug\EntityFramework.xml
+C:\Users\Pichau\Desktop\WordSkillsExercicios\Exercicio09\Desafio09-CRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pichau\Desktop\WordSkillsExercicios\Exercicio09\Desafio09-CRUD\obj\Debug\Desafio09-CRUD.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\WordSkillsExercicios\Exercicio09\Desafio09-CRUD\obj\Debug\Desafio09-CRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\Desktop\WordSkillsExercicios\Exercicio09\Desafio09-CRUD\obj\Debug\Desafio09_CRUD.Form1.resources
+C:\Users\Pichau\Desktop\WordSkillsExercicios\Exercicio09\Desafio09-CRUD\obj\Debug\Desafio09_CRUD.Properties.Resources.resources
+C:\Users\Pichau\Desktop\WordSkillsExercicios\Exercicio09\Desafio09-CRUD\obj\Debug\Desafio09-CRUD.csproj.GenerateResource.cache
+C:\Users\Pichau\Desktop\WordSkillsExercicios\Exercicio09\Desafio09-CRUD\obj\Debug\Desafio09-CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\WordSkillsExercicios\Exercicio09\Desafio09-CRUD\obj\Debug\Desafio09-CRUD.csproj.CopyComplete
+C:\Users\Pichau\Desktop\WordSkillsExercicios\Exercicio09\Desafio09-CRUD\obj\Debug\Desafio09-CRUD.exe
+C:\Users\Pichau\Desktop\WordSkillsExercicios\Exercicio09\Desafio09-CRUD\obj\Debug\Desafio09-CRUD.pdb
